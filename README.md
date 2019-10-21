@@ -1,7 +1,9 @@
 # Setmore automation demo 
 
 Clone the project
+
 git clone git@github.com:pravanjan/setmore_automation_demo.git
+
 cd setmore_automation_demo
 
 npm install
